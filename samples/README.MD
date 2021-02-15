@@ -1,4 +1,4 @@
-# Samples, Snippets, and How-To Guides
+# Samples, Snippets, and How-To Guides 
 
 Developers like to learn by looking at code, and so the Azure SDK comes with a myriad of code samples in the form of short code snippets, sample applications, and how-to guides. This document describes where to find all these resources.
 
